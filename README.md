@@ -12,5 +12,5 @@ In this study, a ECG-age mdoel was trained and tested using 58,672 ECG from heal
 
 
 
-The trained model can be download at https://github.com/Healthink/ECG-age-predictor/pre-trained-model
+The trained model can be download at [https://github.com/Healthink/ECG-age-predictor/pre-trained-model](https://github.com/Healthink/ECG-age-predictor/tree/main/pre-trained-model)
 
